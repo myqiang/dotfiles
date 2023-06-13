@@ -147,6 +147,7 @@ brew install htop
 brew install mpv
 # brew install imagemagick
 
+brew install font-fira-code
 
 
 # Remove outdated versions from the cellar.
