@@ -34,7 +34,8 @@ BREW_PREFIX=$(brew --prefix)
 # fi;
 
 brew install rbenv ruby-build
-brew install cmake
+# brew install cmake
+# brew install erlang
 
 brew install fzf
 brew install ripgrep
@@ -43,20 +44,21 @@ brew install bat
 brew install tree
 brew install ack
 brew install the_silver_searcher #alternative: ripgrep
+brew install exa
 
 # Install `wget` with IRI support.
 brew install wget --with-iri
 
 # Install GnuPG to enable PGP-signing commits.
-brew install gnupg
+# brew install gnupg
 
 # Install more recent versions of some macOS tools.
-brew install vim --with-override-system-vi
-brew install grep
+# brew install vim --with-override-system-vi
+# brew install grep
 # brew install openssh
 # brew install screen
 # brew install php
-brew install gmp
+# brew install gmp
 
 # Install font tools.
 brew tap bramstein/webfonttools
@@ -136,16 +138,14 @@ brew install cloudflared
 brew install dapr-cli
 brew install direnv
 brew install double-conversion
-brew install exa
-brew install erlang
-brew install fastlane
+
+# brew install fastlane
 brew install ffmpeg
 
 brew install helm
 brew install htop
 brew install mpv
-brew install imagemagick
-
+# brew install imagemagick
 
 
 
