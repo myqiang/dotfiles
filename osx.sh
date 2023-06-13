@@ -1,6 +1,8 @@
 #!/bin/sh
 
 # source $HOME/dotfiles/log.sh
+# systemsetup should be set carefully. I donot want use script to do this now.
+# pmset should be set carefully. I do not want to use script to do this now.
 
 sudo -v
 
