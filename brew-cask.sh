@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+brew install --cask visual-studio-code
 brew install --cask google-chrome
 brew install --cask microsoft-teams
 brew install --cask postman
